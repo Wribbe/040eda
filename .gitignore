@@ -1,0 +1,5 @@
+# Ignore material folder.
+material
+
+# Ignore vim swap files.
+.*.sw*
